@@ -4,7 +4,7 @@
 
 # DO NOT CHANGE THIS VALUE. The deploy script relies on the site being deployed to the
 # "site" directory.
-name = "site"
+name = "Squad 2022 Batch Trip"
 
 # This page should be the root of your website. It's important.
-page = "<your Notion share URL here>"
+page = "https://www.notion.so/osnaren/Soliton-Squad-2022-Batch-Trip-f656426c11f546798c8fce97247a1c08?pvs=4"
